@@ -19,12 +19,12 @@
 ## 📈 Contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelCherfem/rafaelCherfem/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafaelCherfem/rafaelCherfem/output/github-snake.svg" />
-  <img alt="Gráfico de contribuições animado" src="https://raw.githubusercontent.com/rafaelCherfem/rafaelCherfem/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelCherfem/rafaelCherfem/output/pacman-contribution-graph-dark.svg" />
+  <img alt="Pac-Man das contribuições" src="https://raw.githubusercontent.com/rafaelCherfem/rafaelCherfem/output/pacman-contribution-graph.svg" />
 </picture>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelCherfem&show_icons=true&theme=github_dark&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelCherfem&layout=compact&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://img.shields.io/github/followers/rafaelCherfem?style=for-the-badge&logo=github&color=58A6FF&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/stars/rafaelCherfem?style=for-the-badge&logo=github&color=58A6FF&labelColor=0d1117" />
+  <img src="https://komarev.com/ghpvc/?username=rafaelCherfem&style=for-the-badge&color=58A6FF&label=VISITAS" />
 </p>
